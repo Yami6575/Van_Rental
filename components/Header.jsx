@@ -10,26 +10,20 @@ export default function Header() {
     
     return (
         <header>
-            <Link className="site-logo" to="/">Van Rental</Link>
+            <Link className="site-logo" to="/">#VanLife</Link>
             <nav>
-            <NavLink 
-                    to="/vans"
-                    style={({isActive}) => isActive ? activeStyles : null}
-                >
-                    Vans
-                </NavLink>
-               
-                <NavLink 
-                    to="/about"
-                    style={({isActive}) => isActive ? activeStyles : null}
-                >
-                    About
-                </NavLink>
+                
                 <NavLink 
                     to="/host"
                     style={({isActive}) => isActive ? activeStyles : null}
                 >
                     Host
+                </NavLink>
+                <NavLink 
+                    to="/about"
+                    style={({isActive}) => isActive ? activeStyles : null}
+                >
+                    About
                 </NavLink>
                 
             </nav>
