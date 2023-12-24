@@ -23,3 +23,11 @@ Install my-project with npm
 ![App Screenshot](https://i.postimg.cc/gJ7D7cJ9/Screenshot-2023-12-24-191541.png)
 
 ![App Screenshot](https://i.postimg.cc/Dw7MLZ45/Screenshot-2023-12-24-191504.png)
+
+## Tech Stack
+
+React
+
+React Router 6
+
+Vite
