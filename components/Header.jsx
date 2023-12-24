@@ -14,10 +14,10 @@ export default function Header() {
             <nav>
                 
                 <NavLink 
-                    to="/host"
+                    to="/vans"
                     style={({isActive}) => isActive ? activeStyles : null}
                 >
-                    Host
+                    Vans
                 </NavLink>
                 <NavLink 
                     to="/about"

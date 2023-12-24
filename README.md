@@ -26,8 +26,19 @@ Install my-project with npm
 
 ## Tech Stack
 
-React
+- React
+- React Router 6
+- Vite
 
-React Router 6
+## Features
 
-Vite
+- Products Page
+- Products Details Page
+- About Page
+
+## Features to add
+
+- Authentication
+- Payment Gateway
+- Cart Page
+- User Profile Page(working on)
